@@ -1,6 +1,6 @@
 # quarkus-qute
 
-Demo of using Quarkus with server-side templates via its Qute extension an Unpoly for client-side enhancements.
+Demo of using Quarkus with server-side templates via its Qute extension (https://quarkus.io/guides/qute) an Unpoly (https://unpoly.com/) for client-side enhancements.
 
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
 
