@@ -1,10 +1,10 @@
 # quarkus-qute
 
-Demo of using Quarkus with server-side templates via its Qute extension (https://quarkus.io/guides/qute) an Unpoly (https://unpoly.com/) for client-side enhancements.
+Demo of using Quarkus with server-side templates via its Qute extension (https://quarkus.io/guides/qute) an Unpoly (https://unpoly.com/) for client-side enhancements. Uses bootstrap (https://getbootstrap.com/docs/4.0)
 
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
 
-## Database set-up
+## Database set-up)
 
 This project uses Postgres which can be started via Docker Compose:
 
